@@ -1,1 +1,1 @@
-# earnings-llm-benchmark
+Evaluated prompting strategies for GPT-4.1 stock-direction prediction on 90 S&P 500 earnings calls. Chain-of-thought helped only with grounded exemplars, and a two-stage pipeline cut prediction cost by 91% at comparable accuracy
